@@ -1,9 +1,12 @@
 # DisplayController
 允许安卓设备随意旋转内置外置屏幕方向(A15+)
+
 允许修改分辨率
+
 允许修改DPI
 # 必要条件
 Android15+
+
 Shizuku
 # 警告
 不建议修改内置屏幕，可能会导致你手机APP不兼容
