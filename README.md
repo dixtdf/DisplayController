@@ -16,4 +16,4 @@ Shizuku
 请在合法范围为使用本软件，请不要用于非法用途，使用本软件造成的任何后果，本软件概不负责。
 # 测试通过
 一加13
-![7a6e729a2dd89e835e6417c2e3b9865](https://github.com/user-attachments/assets/84535b18-78e1-4af0-9ae7-59d7c8c2aaf3)
+![c89096159ae37b9a648b071ca1786d0](https://github.com/user-attachments/assets/94c69d37-1199-4b9c-9e4a-b9e40ca2a985)
